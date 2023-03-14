@@ -1,2 +1,2 @@
 # mule
-hi bharathi
+a = 1
